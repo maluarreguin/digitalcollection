@@ -3,12 +3,60 @@
     <title>Digital Collection Project</title>
     <link href="https://maluarreguin.github.io/digitalcollection/feed.xml" rel="self" />
     <link href="https://maluarreguin.github.io/digitalcollection" />
-    <updated>2023-05-08T20:47:24-07:00</updated>
+    <updated>2023-05-08T21:44:38-07:00</updated>
     <author>
         <name>malu</name>
     </author>
     <id>https://maluarreguin.github.io/digitalcollection</id>
 
+    <entry>
+        <title>Document 5</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/document-5.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/document-5.html</id>
+
+        <updated>2023-05-08T21:44:38-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Document 4</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/document-4.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/document-4.html</id>
+
+        <updated>2023-05-08T21:44:25-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Document 3</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/document-3.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/document-3.html</id>
+
+        <updated>2023-05-08T21:44:16-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Document 2</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/document-2.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/document-2.html</id>
+
+        <updated>2023-05-08T21:44:08-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Video 5</title>
         <author>

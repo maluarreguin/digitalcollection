@@ -10,6 +10,54 @@
     },
     "items": [
         {
+            "id": "https://maluarreguin.github.io/digitalcollection/document-5.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/document-5.html",
+            "title": "Document 5",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T21:44:38-07:00",
+            "date_modified": "2023-05-08T21:44:38-07:00"
+        },
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/document-4.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/document-4.html",
+            "title": "Document 4",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T21:44:25-07:00",
+            "date_modified": "2023-05-08T21:44:25-07:00"
+        },
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/document-3.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/document-3.html",
+            "title": "Document 3",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T21:44:16-07:00",
+            "date_modified": "2023-05-08T21:44:16-07:00"
+        },
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/document-2.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/document-2.html",
+            "title": "Document 2",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T21:44:08-07:00",
+            "date_modified": "2023-05-08T21:44:08-07:00"
+        },
+        {
             "id": "https://maluarreguin.github.io/digitalcollection/video-5.html",
             "url": "https://maluarreguin.github.io/digitalcollection/video-5.html",
             "title": "Video 5",
