@@ -3,10 +3,70 @@
     <title>Digital Collection Project</title>
     <link href="https://maluarreguin.github.io/digitalcollection/feed.xml" rel="self" />
     <link href="https://maluarreguin.github.io/digitalcollection" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2023-05-08T20:47:24-07:00</updated>
     <author>
         <name>malu</name>
     </author>
     <id>https://maluarreguin.github.io/digitalcollection</id>
 
+    <entry>
+        <title>Video 5</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/video-5.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/video-5.html</id>
+
+        <updated>2023-05-08T20:47:24-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Video 4</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/video-4.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/video-4.html</id>
+
+        <updated>2023-05-08T20:47:08-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Video 3</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/video-3.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/video-3.html</id>
+
+        <updated>2023-05-08T20:46:53-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Video 2</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/video-2.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/video-2.html</id>
+
+        <updated>2023-05-08T20:46:43-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Video 1</title>
+        <author>
+            <name>malu</name>
+        </author>
+        <link href="https://maluarreguin.github.io/digitalcollection/video-a.html"/>
+        <id>https://maluarreguin.github.io/digitalcollection/video-a.html</id>
+
+        <updated>2023-05-08T20:46:35-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

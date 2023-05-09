@@ -9,5 +9,65 @@
         "name": "malu"
     },
     "items": [
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/video-5.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/video-5.html",
+            "title": "Video 5",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T20:47:24-07:00",
+            "date_modified": "2023-05-08T20:47:24-07:00"
+        },
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/video-4.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/video-4.html",
+            "title": "Video 4",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T20:47:08-07:00",
+            "date_modified": "2023-05-08T20:47:08-07:00"
+        },
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/video-3.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/video-3.html",
+            "title": "Video 3",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T20:46:53-07:00",
+            "date_modified": "2023-05-08T20:46:53-07:00"
+        },
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/video-2.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/video-2.html",
+            "title": "Video 2",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T20:46:43-07:00",
+            "date_modified": "2023-05-08T20:46:43-07:00"
+        },
+        {
+            "id": "https://maluarreguin.github.io/digitalcollection/video-a.html",
+            "url": "https://maluarreguin.github.io/digitalcollection/video-a.html",
+            "title": "Video 1",
+            "author": {
+                "name": "malu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-08T20:46:21-07:00",
+            "date_modified": "2023-05-08T20:46:35-07:00"
+        }
     ]
 }
